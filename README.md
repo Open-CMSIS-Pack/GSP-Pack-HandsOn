@@ -1,6 +1,6 @@
-# Create a Software Pack - Hands-On Example
+# Create a Generic Software Pack - Hands-On Example
 
-This repository explains the steps to create a simple software pack using the Open-CMSIS-Pack technology. 
+This repository explains the steps to create a generic software pack (GSP) using the Open-CMSIS-Pack technology. 
 
 The pack contains software from the imaginary "ACME Corp." and shows how to frame a middelware as *evaluation* and *commercial* version.
 The software component itself is available in two flavors: *debug* (that could have additional test outputs) and *release*.
